@@ -14,7 +14,7 @@ The story of creating my personal space on the web.
 
 - [x] create repository on github
 - [ ] clone the repository on my wsl
-      'git clone https://github.com/pekelund/the-story.git'
+      `git clone https://github.com/pekelund/the-story.git`
 - [ ] handle github authentication on wsl
 
 ### Issues and solutions
