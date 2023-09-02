@@ -12,9 +12,9 @@ The story of creating my personal space on the web.
 ## create github repository
 [the-story](github.com/pekelund/the-story)
 
-- [] create repository on github
-- [] clone the repository on my wsl
-- [] handle github authentication on wsl
+- [x] create repository on github
+- [ ] clone the repository on my wsl
+- [ ] handle github authentication on wsl
 
 ### Issues and solutions
 #### github authentication in git on wsl
