@@ -15,10 +15,12 @@ The story of creating my personal space on the web.
 - [x] create repository on github
 - [x] clone the repository on my wsl
       `git clone https://github.com/pekelund/the-story.git`
-- [ ] handle github authentication on wsl
+- [x] handle github authentication on wsl
 
 ### Issues and solutions
 #### github authentication in git on wsl
+`git config --global credential.helper store`
+then the auth-details are stored.
 #### starting vscode from wsl
 `alias code='/mnt/c/Users/pekel/AppData/Local/Programs/Microsoft\ VS\ Code\ Insiders/bin/code-insiders'`
 #### bash aliases not available from start
