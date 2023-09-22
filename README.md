@@ -6,7 +6,9 @@ The story of creating my personal space on the web.
 - Next.js
 - NextAuth
 - Firebase
-
+- NextUI
+- JWT
+- spring
 
 # The start
 ## create github repository
@@ -25,4 +27,10 @@ then the auth-details are stored.
 `alias code='/mnt/c/Users/pekel/AppData/Local/Programs/Microsoft\ VS\ Code\ Insiders/bin/code-insiders'`
 #### bash aliases not available from start
 Put alias definitions in .bash_aliases, not in .aliases then .bashrc finds them automatically
+
+## Setup next.js project with NextUI & NextAuth
+
+## Create login with google/firebase
+
+
 
