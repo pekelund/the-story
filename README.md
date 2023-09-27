@@ -29,6 +29,13 @@ then the auth-details are stored.
 Put alias definitions in .bash_aliases, not in .aliases then .bashrc finds them automatically
 
 ## Setup next.js project with NextUI & NextAuth
+- [] create new branch in git
+- [] create a nextUI project with a template from nextUI hompage
+- [] add NextAuth to the project
+- [] update template to match your need
+- [] merge code
+
+### Issues and solutions
 
 ## Create login with google/firebase
 
